@@ -14,7 +14,7 @@
 # v0.9
 * Now using PCB instead of handwire
 
-# Fixed planned for 1.0
+# Fixes planned for 1.0
 * Right now, the case uses printed washers to help pin the case to the pcb, and rubber feet on the bottom to keep the pcb off the desk. I'd like to design a 2 piece case with a bottom
 * Cases without the RKJXT1F and/or trackpad
 * Full build guide
