@@ -1,6 +1,8 @@
 # Hammerhead42
 42 key board with 24 degree angled sides with 3key support
 
+![Example](PXL_20240913_070640397.jpg)
+
 # Current required hardware
 * M2 screws
 * M2 threaded inserts (https://www.amazon.com/dp/B0D477R64K?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
