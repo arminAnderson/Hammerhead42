@@ -11,12 +11,14 @@
 * Rubber feet
 * One set of 2u stabs for right hand side (optional)
 
-# v0.9
+# v0.9 (current)
 * Now using PCB instead of handwire
 
 # Fixes planned for 1.0
-* Right now, the case uses printed washers to help pin the case to the pcb, and rubber feet on the bottom to keep the pcb off the desk. I'd like to design a 2 piece case with a bottom
+* Right now, the case uses printed washers to help pin the case to the pcb, and rubber feet on the bottom to keep the pcb off the desk. Originally I did this to keep the thickness as minimal as possible, but I'd like to design a 2 piece case with a bottom
+* Some of the mounting holes for the case on the pcb are tenths of a mm off, which probably isn't even perceptible but I want to get those perfectly aligned 
 * Cases without the RKJXT1F and/or trackpad
+* A way to mount the trackpad without a full case
 * Full build guide
 * Multiple key configurations (all 1u, for example). Currently, the non-1u keys are
   * 1.25 tab
